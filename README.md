@@ -5,7 +5,7 @@ Test Java Hello World Project!
 Install Java
 
 # To Execute
-In the terminal go to the root folder of your project and compile/run the project with java:
+In the terminal go to the root folder of the project and compile/run the project with java:
 
 ```
 javac src/HelloWorld.java
